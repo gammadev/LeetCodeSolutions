@@ -1,2 +1,2 @@
-# LeetCodeSolutions
-Leet Code Solutions written in Python
+#LeetCodeSolutions
+Leet Code Solutions written in Java
